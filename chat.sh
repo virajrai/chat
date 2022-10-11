@@ -15,4 +15,8 @@ make -s
 mkfifo $file
 stdbuf -o 0 ./simchat | nc clac.cs.columbia.edu 10643 | ./virajchat
 rm $file
-make -s  clean
+
+
+Sidfsdkjfn 
+
+Kjsandfgsdfg 
